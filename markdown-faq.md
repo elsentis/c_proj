@@ -28,7 +28,7 @@ HTML tags
 ## collapse text in md-file
 
  \<details> 
-\<summary>  Заголовок \</summary
+\<summary>  Заголовок \</summary>
 
 Основной текст \</details>
 
