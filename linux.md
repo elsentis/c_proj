@@ -32,5 +32,4 @@ Will need to add 'heic' support for the goofy Apple format - the 'heif-pixbuf-lo
 
 libheif-devel не пригодился
 
-## установка сертификата эп в линукс
 
