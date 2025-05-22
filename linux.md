@@ -19,3 +19,18 @@ code_none_net()
     }
 
 Далее в терминале пишу code_none_net и запускается vs_code через приложение firefail (в изоляции) с параметром --net=none (без сети)
+
+## подеержка heic в линукс
+
+на компе стандартный просмотрщик изображений eye-of-mate начал открывать hiec после установки heif-pixbuf-loader
+
+reddit:
+Yes, 'eye-of-mate' is quite good.
+Will need to add 'heic' support for the goofy Apple format - the 'heif-pixbuf-loader' package.
+
+также на компе установлен стандартно был пакет libheif
+
+libheif-devel не пригодился
+
+## установка сертификата эп в линукс
+
