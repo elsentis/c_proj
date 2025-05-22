@@ -25,7 +25,7 @@ HTML tags
 
 '<!'-- Это комментарий, который не будет отображаться в итоговом файле -->
 
-### collapse text in md-file
+## collapse text in md-file
 
  \<details> 
 \<summary>  Заголовок \</summary
